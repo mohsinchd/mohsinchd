@@ -4,7 +4,32 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 I'm Frontend Engineer and Teacher
 ---------------------------------
 
-An enthusiastic Software Engineer wishes to make a move into a technical and professional environment. With experience in delivering technical specifications & implementing code with consistently high standards, I am committed to further improving my development skills. I am seeking a role that boosts my following existing capabilities and helps to expand my skills and career. - Software Architect and develop software systems and applications with the latest technologies. - Frontend Designing with Custom CSS and Frameworks like Bootstrap and Tailwind CSS. - Web and REST API development with Node JS (Express) framework. - Worked with JavaScript front-end libraries like React-Js. and Redux - Database designing with RDBMS like MySQL/PostgreSQL and working with NoSQL patterns of databases such as MongoDB. - Version Controlling with Git.
+Greetings,
+I am undergrad student of Computer Science and I am enthusiast in building highly scalable, fully riched, and user-friendly frontend applications with modern frameworks like React Js. I have experience in delivering technical specifications & implementing code with consistently high standards. I have Good Understanding of JavaScript DOM manipulation Techniques and Functional Programming using ES6.
+
+- Software Architect and develop software systems and applications with the latest technologies.
+- Frontend Web apps development with React JS (Redux Js) and also love to build Api's using Express and Node Js.
+- Working with famous CSS frameworks like Tailwind CSS and Bootstrap.
+- Version Controlling with Git / Github
+- Passion and Love to Teach others.
+
+📌Skills & Tech Expertise:
+
+✔HTML5
+✔CSS3
+✔Javascript
+✔Bootstrap 5
+✔Tailwind CSS
+✔SASS
+✔React JS
+✔Redux JS
+✔Redux thunk
+✔Redux Toolkit
+✔Material UI
+✔Node JS
+✔Express JS
+✔MongoDB
+✔Rest Api's
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [mohsinshoaib735@gmail.com](mailto:mohsinshoaib735@gmail.com)
