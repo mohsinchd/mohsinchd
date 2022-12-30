@@ -1,11 +1,11 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mohsin shoaib
 =====================================================================================================================================
 
-I'm Frontend Engineer and Teacher
+I'm Full Stack Engineer and Teacher
 ---------------------------------
 
 Greetings,
-I am undergrad student of Computer Science and I am enthusiast in building highly scalable, fully riched, and user-friendly frontend applications with modern frameworks like React Js. I have experience in delivering technical specifications & implementing code with consistently high standards. I have Good Understanding of JavaScript DOM manipulation Techniques and Functional Programming using ES6.
+I am undergrad student of Computer Science and I am enthusiast in building highly scalable, fully riched, and user-friendly full stack applications with modern frameworks like React Js and Node(Express JS). I have experience in delivering technical specifications & implementing code with consistently high standards. I have Good Understanding of JavaScript DOM manipulation Techniques and Functional Programming using ES6.
 
 - Software Architect and develop software systems and applications with the latest technologies.
 - Frontend Web apps development with React JS (Redux Js) and also love to build Api's using Express and Node Js.
