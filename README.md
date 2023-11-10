@@ -3,37 +3,40 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 I'm Full Stack Engineer and Teacher
 ---------------------------------
-
 Greetings,
-I am undergrad student of Computer Science and I am enthusiast in building highly scalable, fully riched, and user-friendly full stack applications with modern frameworks like React Js and Node(Express JS). I have experience in delivering technical specifications & implementing code with consistently high standards. I have Good Understanding of JavaScript DOM manipulation Techniques and Functional Programming using ES6.
+I'm a Full-Stack MERN developer with over 2 years of hands-on experience, having contributed to 3+ extensive full-stack MERN projects. I offer 8+ hours of daily availability. My proficiency encompasses React/Next.js, Redux.js, Typescript, Node.js, Express.js, MongoDB/MySQL, and Firebase. In addition to these technical skills, I excel in third-party integrations, spanning Payment Gateways (Stripe, Paypal, Razorpay), Authentication (Auth0), Social Media Integration, and Google Maps.
 
-- Software Architect and develop software systems and applications with the latest technologies.
-- Frontend Web apps development with React JS (Redux Js) and also love to build Api's using Express and Node Js.
-- Working with famous CSS frameworks like Tailwind CSS and Bootstrap.
-- Version Controlling with Git / Github
-- Passion and Love to Teach others.
+RapidMetrics:
+- 2+ years of experience (Software development, Team management, Mentorship, Ambassadorship in Technologies).
+- Ex Frontend Lead Engineer @ Tags Solutions.
+- Passionate about Data Structures and Algorithms (DSA) with official completion of 100 LeetCode problems (and an additional 200+ unofficially) | Skilled in Competitive Programming.
+- Conducted over 30+ MERN stack engineering sessions and offered mentorship to a cohort of 40+ students.
 
-📌Skills & Tech Expertise:
+During my Past 2 years of experience with the Software industry:
+----------------------------------------------------------------
+Worked on a large-scale web app, I did the following while working @ Tags Solutions:
+- Designed and developed the User Interface of a USA client's product that gives a stunning view and smooth user experience with a fully responsiveness layout that covers all screens.
+- Wrote custom components with the optimal and scaleable design and architecture patterns that increased the maintenance as well as reusability to 100%,
+- Integrated the backend APIs with the frontend as well as some 3rd party libraries integrations such as Geoapify, Leaflet-maps, and charts Js.
 
-✔HTML5
-✔CSS3
-✔Javascript
-✔Bootstrap 5
-✔Tailwind CSS
-✔SASS
-✔React JS
-✔Redux JS
-✔Redux thunk
-✔Redux Toolkit
-✔Material UI
-✔Node JS
-✔Express JS
-✔MongoDB
-✔Rest Api's
+📌My Tech stack:
+------------------
+Frontend:
+React Js, Next Js, Javascript, jQuery, Bootstrap, Tailwind CSS, HTML5/CSS3, UI/UX, Media Queries, SCSS
+
+Backend:
+Node Js, Express Js, JWT, OAuth, Firebase
+
+Data Stack:
+My SQL, MongoDB
+
+Software Engineering:
+Scrum, Agile, JIRA, GitHub
+
+Dedicated to contributing to the tech community, I've conducted over 30 web development sessions and mentored more than 40 MERN developers, helping them acquire valuable skills and secure job opportunities, both locally and on platforms like Upwork.
 
 * 🌍  I'm based in Pakistan
 * ✉️  You can contact me at [mohsinshoaib735@gmail.com](mailto:mohsinshoaib735@gmail.com)
-* 🧠  I'm learning Full stack web application development using MERN stack
 
 ### Skills
 
@@ -58,7 +61,6 @@ I am undergrad student of Computer Science and I am enthusiast in building highl
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 </p>
-
 
 ### Socials
 
